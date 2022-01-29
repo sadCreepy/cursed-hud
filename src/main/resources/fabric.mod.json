@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "cursedhud",
+  "version": "${version}",
+  "name": "Cursed Hud",
+  "description": "CURSED",
+  "authors": [
+    "_Creepy_Man_"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/sadCreepy/cursed-hud"
+  },
+  "license": "MIT",
+  "icon": "assets/cursedhud/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "gcapi": [
+      "io.github.sadcreepy.cursedhud.events.init.ConfigListener"
+    ]
+  },
+  "mixins": [
+    "cursedhud.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "1.0.0-beta.7.3"
+  }
+}

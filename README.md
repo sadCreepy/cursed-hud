@@ -13,6 +13,8 @@ This mod allows you to customize in-game hud during the game using the config
 ## Screenshots
 
 ![Config screen](images/screenshots/config_screen.png)
-![In Game](images/screenshots/in_game_1.png)
-![In Game](images/screenshots/in_game_2.png)
+![In Game](images/screenshots/in_game_5.png)
+![In Game](images/screenshots/in_game_4.png)
 ![In Game](images/screenshots/in_game_3.png)
+![In Game](images/screenshots/in_game_2.png)
+![In Game](images/screenshots/in_game_1.png)
